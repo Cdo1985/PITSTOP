@@ -2,6 +2,7 @@ This middleware code acts as a central ui control plane and observability layer 
 
 In plain terms, it gives companies a way to inspect, enforce security rules on, and log every single prompt going into or coming out of their AI models—without forcing developers to rewrite their application code.
 
+TRY IT OUT HERE : https://pitstopp.streamlit.app/
 
 What Real-World Problems Does It Solve?
 1. Dynamic Guardrails & Security Injection (The "Wax" Phase)
